@@ -1,0 +1,15 @@
+.first-element, .second-element{
+    display: inline-block;
+    font:  normal 28px Helvetica, "Times New Roman",  sans-serif;
+    border: 1px solid wheat;
+}
+.first-element{
+    background-color: black;
+    color: white;
+   
+    
+}
+.second-element{
+    background-color: yellow;
+    color: black;
+}
